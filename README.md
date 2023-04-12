@@ -1,6 +1,8 @@
 # Introduction
  These are 'quick and dirty' scripts used to scrape images and metadata from the Nakamigos project.  Images were used in the construction of the DOSamigos by MaxCapacity.  These scripts are nowhere near production quality, but they should get you off the ground if you have similar requirements.
 
+ Note that we used Third Web to release this NFT collection, so there are no smart contracts to check in.  Also, the scripts in this repos are geared to Third Web specifically, like structuring the whitelists, for example.
+
 # Installation
  Dependencies include:
 
