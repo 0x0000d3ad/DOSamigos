@@ -22,3 +22,6 @@
  4. `get_metadata.py` - Scrape Nakamigos metadata.  This script spins up a fully emulated browser using selenity.  Then it navigates to the x2y2 page for each Nakamigo, and saves the HTML.  A later script (accidently deleted and therefore not included in this repo) scrapes the HTML for the final metadata.
  5. `images.py` - Validates images, shuffles images and metadata, verifies naming convention.
 
+ To run any of the above scripts, simply invoke python:
+
+ `python <script>.py`
